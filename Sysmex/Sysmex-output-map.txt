@@ -1,0 +1,31 @@
+#	STX					 		1 					 (02 H)
+#	Text distinction code I		1 					 "D"
+#	Text distinction code II 	1 					 "1"
+#	Sample distinction code		1 					 "U"
+#	Year						4 					 "1999"
+#	Month						2 					 "09"
+#	Day							2 					 "30"
+#	Analysis information		1 					 (O)
+#	Sample ID No. 				15 					 (OOOOOOOOOOOOOOO)
+#	PDA information				6 					 (OOOOOO)
+#	Reserve						1 					 "O"
+#	WBC [×103/µL]				5 					 XXX.X
+#	FRBC [×106/µL]				5 					 XX.XXF
+#	HGB [g/dL]					5 					 XXX.XF
+#	HCT [%]						5 					 XXX.XF
+#	MCV [fL]					5 					 XXX.XF
+#	MCH [pg]					5 					 XXX.XF
+#	MCHC [g/dL]					5 					 XXX.XF
+#	PLT [×103/µL]				5 					 XXXXF
+#	LYM% (W-SCR) [%]			5 					 XXX.XF
+#	MXD% (W-MCR) [%]			5 					 XXX.XF
+#	NEUT% (W-LCR) [%]			5 					 XXX.XF
+#	LYM# (W-SCC) [×103/µL]		5 					 XXX.XF
+#	MXD# (W-MCC) [×103/µL]		5 					 XXX.XF
+#	NEUT# (W-LCC) [×103/µL]		5 					 XXX.XF
+#	RDW-SD [fL]					5 					 XXX.XF
+#	RDW-CV [%]					5 					 XXX.XF
+#	PDW [fL]					5 					 XXX.XF
+#	MPV [fL]					5 					 XXX.XF
+#	P-LCR [%]					5 					 XXX.XF
+#	ETX							1 					 (03 H)
